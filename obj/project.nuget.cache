@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6jZocuUNKHyxZ7QvRDoeFnSTfwsqsOWMVCvf6xkxgAz1rv1WR/osypueBqr40et47yOv79uREds+PELUWInIig==",
+  "success": true,
+  "projectFilePath": "D:\\dotnet_Practice\\BulkInsert\\BulkInsert.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\suman\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\suman\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
